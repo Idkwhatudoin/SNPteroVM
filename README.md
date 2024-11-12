@@ -1,11 +1,11 @@
-# Pterodactyl VPS Egg
+# PteroVPS | forked @ ysdragon
 
-This is a Pterodactyl Egg for running a Virtual Private Server (VPS).
+⚠️ This project isn't completey ours - credits to *ysdragon* for the original backend.
+📌 This is a modified fork of his Pterodactyl VPS Egg, tweaked a bit and updated for our usage.
 
 ## Overview
 
-This Pterodactyl Egg allows you to set up and manage a Virtual Private Server within your Pterodactyl panel. It provides a convenient way to deploy and manage VPS instances with ease.
-
+This is the Public Egg for Solarnode's Ptero VPS.
 ## Supported Architectures
 
 - amd64
